@@ -1,0 +1,109 @@
+*{
+  
+  padding:0px;
+  margin:0px;
+  
+  
+  
+}
+nav{
+  
+  background-color:black;
+  height: 180px;
+  
+  
+
+  
+  
+  
+}
+.link-container{
+  float: right;
+  
+  padding:20px;
+  
+  
+  
+}
+.link{
+  
+  padding: 10px;
+  font-size: 30px;
+  color: white;
+  text-decoration: none;
+  font-weight: 800;
+  position: relative;
+  display: inline-block;
+  font-family: Verdana;
+}
+h1{
+  
+ color:white; 
+  font-size: 40px;
+  
+padding-top: 30px;
+  padding-left: 20px;
+  display:block;
+ position: absolute;
+ font-family: Verdana;
+  
+}
+.images{
+  
+  
+margin-top: 30px;
+margin-left: 100px;
+
+
+  
+  
+}
+.second{
+  
+  
+  margin-top:80px;
+  
+  
+}
+.third{
+  
+  margin-top: 80px;
+  
+  
+  
+}
+.fourth{
+  
+  
+  
+  margin-top: 80px;
+  
+  
+}
+.fifth{
+
+  
+  margin-top: 80px;
+  
+}
+.sixth{
+  
+  
+  margin-top: 80px;
+  
+  
+}
+.seven{
+  
+  
+  margin-top: 80px;
+  margin-bottom:50px;
+  
+  
+}
+p{
+  
+ font-size: 50px; 
+  
+  
+}
